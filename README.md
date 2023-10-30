@@ -3,7 +3,8 @@ Game for hackathon
 
 How to start the game
 
-Firstly, you can follow the link to play the game online:
+Firstly, you can follow the link to play the game online: https://dengervolley.github.io/ZombiEvade/
+
 If you need to run the game locally, then follow the tips below:
 1. Download all files from the repository to a folder on your computer.
 2. Install Python. If you use Linux or Mac OS X, everything is already ready on your system. If you are a Windows user, you can download the installation file from the Python home page:
